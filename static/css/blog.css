@@ -1,15 +1,12 @@
 .page-header {
     background-color: #93CCC9;
     margin-top: 0;
-    padding-top: 20px;
-	padding-bottom: 20px;
-	width:100%;
-	text-align:center;
+    padding: 20px 20px 20px 55px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #FFE9C8;
-    font-size: 35pt;
+    color: #93CCC9;
+    font-size: 100pt;
     text-decoration: none;
 }
 
@@ -22,7 +19,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #D1AD90	;
+    color: #121510;
 }
 
 .save {
@@ -34,10 +31,10 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #FFE9C8;
+    color: #FADFB1;
     float: right;
     font-size: 26pt;
-    padding-right: 30px;
+    margin-right: 20px;
 	margin-top: 25px;
 }
 
@@ -46,5 +43,5 @@ h1, h2, h3, h4 {
 }
 
 .post h2 a, .post h2 a:visited {
-    color: #3A4960;
+    color: #93CCC9;
 }
